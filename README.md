@@ -1,4 +1,4 @@
-## hello everybody
+## hello everyone
 
 # my name is shubham dhaked
 - 🔭 I’m currently studying in National Institute of technology, Hamirpur.
